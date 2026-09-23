@@ -1,6 +1,6 @@
 # 🛡️ Resilient Order Processing System
 
-A high-throughput, fault-tolerant Distributed Order Processing Microservice built with **Java 21** and **Spring Boot 4.1.1**[cite: 14].
+A high-throughput, fault-tolerant Distributed Order Processing Microservice built with **Java 21** and **Spring Boot 4.1.1**.
 
 This system solves real-world distributed microservice challenges:
 1. **Preventing Double-Spending & Duplicate Requests** (Idempotency via Redis)
